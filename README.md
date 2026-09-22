@@ -8,19 +8,19 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (160)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (193)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (194)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (333)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (96)
-- [🎬 Video & Animation](#video-animation) (86)
-- [🎨 Image, Design & 3D](#image-design-3d) (101)
-- [✍️ Writing & Content](#writing-content) (62)
-- [📊 Analytics & Data](#analytics-data) (92)
-- [🗂 Productivity & Notes](#productivity-notes) (257)
+- [🎬 Video & Animation](#video-animation) (87)
+- [🎨 Image, Design & 3D](#image-design-3d) (102)
+- [✍️ Writing & Content](#writing-content) (64)
+- [📊 Analytics & Data](#analytics-data) (93)
+- [🗂 Productivity & Notes](#productivity-notes) (265)
 - [🔎 Search & Discovery](#search-discovery) (48)
-- [🎓 Education & Learning](#education-learning) (41)
+- [🎓 Education & Learning](#education-learning) (42)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (40)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (50)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (157)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (159)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (34)
 - [👥 Social & Community](#social-community) (29)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (17)
@@ -384,6 +384,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sider Omni Sidebar](https://sider.ai/lab/sider-omni) - An AI agent beside any Mac app.
 - [Mycel](https://mycelai.dev) - Mycel runs the work your service business sells - clients, deliverables, approvals, invoices.
 - [Simular](https://simular.ai) - Simular is building the world’s first autonomous computers—systems that can use software like humans do.
+- [Hola AI](https://www.holavoicemail.com) - Hola AI answers calls when you can't, speaks with callers, takes messages, filters spam, and sends instant call summaries.
 
 ## 💻 Coding & Developer Tools
 
@@ -909,6 +910,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lumiko](https://lumiko.dev) - Lumiko records your screen and edits the footage while you work.
 - [Supacut](https://supacut.io) - Review hours of interview footage in minutes.
 - [Flicka](https://tryflicka.com) - Flicka records your screen with cinematic auto-zoom that follows your cursor, lets you polish it on a real timeline, annotate any screenshot, and export MP4, WebM or GIF.
+- [Clueso](https://clueso.io) - Clueso is the fastest and easiest way to create stunning product videos.
 
 ## 🎨 Image, Design & 3D
 
@@ -1014,6 +1016,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [appdesigns](https://appdesigns.click) - appdesigns is a free, in-browser editor for App Store and Google Play screenshots.
 - [Proofrr](https://proofrr.com) - Feedback in WhatsApp.
 - [Edit Text in Image - Keep the Original L](https://edittextinimage.pro) - Edit text in image online with AI.
+- [PixelCrew](https://pixelcrew.ai) - A crew of specialized AI agents coordinates on your brief and ships production-quality design.
 
 ## ✍️ Writing & Content
 
@@ -1079,6 +1082,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Marked Share](https://share.markedapp.com) - Marked Share is a subproduct of Marked 3, but doesn't require Marked to use.
 - [GhostWriter by MyHandler](https://myhandler.ai/ghostwriter) - Every other AI writes what you tell it.
 - [Voiskey](https://www.voiskey.ai) - Voiskey starts from what you meant, not just what you said.
+- [thestory.run](https://thestory.run) - Your team already has things to say, they just don't know how.
+- [ReWords AI](https://rewordsai.app) - ReWords AI is an AI writing assistant for rewording, rewriting, and polishing content while keeping the original meaning.
 
 ## 📊 Analytics & Data
 
@@ -1175,6 +1180,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Axiom](http://partners.axiom.co/ph) - The modern machine data platform — Petabyte-scale, schema-less ingest on a fully managed event store, so you keep every byte without the operational cost of running it yourself.
 - [TinyKPI](https://tinykpi.app) - Connect the tools you already usefrom Stripe and PostHog to Google Analytics and your own database.
 - [Pinlytix · Pinterest analytics dashboard](https://pinlytix.com) - Pinterest analytics dashboard that helps creators, bloggers and digital product sellers rank, compare and understand their performance.
+- [Anomalo](https://www.anomalo.com/anomalo-analyst/) - Your data changes constantly.
 
 ## 🗂 Productivity & Notes
 
@@ -1435,6 +1441,14 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Launchie](https://www.launchie.app) - Apple removed Launchpad in macOS 26 and kept it out of 27.
 - [Harbor](https://harbor.my) - A private second brain: notes, scans, PDFs and recordings, searchable with OCR, handwriting included.
 - [Turfs](https://bloosoftware.com/turfs) - Use the desktop to keep content from across your Mac accessible and organized in defined areas — or simply keep it clutter-free.
+- [Plane](https://plane.so) - Plane is the work infrastructure for humans and agents.
+- [WZRD](https://wzrd.to) - WZRD is for teams and creators working with documents, slides, forms and sheets.
+- [Outcome Distribution Kit](https://outcome-distribution-kit.surge.sh) - Outcome Distribution Kit models timelines, revenue, and hiring as distributions — not false certainty.
+- [Field Ownership & Leverage Kit](https://field-ownership-leverage.surge.sh) - Estimate crowd share vs success odds — stance workbook for product, hiring, marketplace (not sports/betting).
+- [Breaking News Desk Playbook](https://breaking-news-desk.surge.sh) - Structured real-time briefs for ops/product — source check, confidence labels, rerun flags.
+- [Role & Opportunity Kit](https://role-opportunity-kit.surge.sh) - Score hires, vendors, and opportunities before you commit.
+- [Decision Script Kit](https://decision-script-kit.surge.sh) - Map mutually exclusive decision futures before you commit.
+- [Scorecard + Builder Under Hard Caps](https://constraint-portfolio-kit.surge.sh) - Free worked scorecard for allocating a fixed budget under hard caps.
 
 ## 🔎 Search & Discovery
 
@@ -1531,6 +1545,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Keysake](https://keysake.ai) - Learn English as you type Chinese.
 - [AINA](https://aina-tech.io/candidate) - AINA is an AI career coach that helps you see what's holding your job search back, strengthen your profile, and practice for interviews — through conversations with a video avatar.
 - [YABAI](https://yabai-app.pages.dev) - Textbooks teach Japanese that stops at the classroom door.
+- [Keet](https://trykeet.com) - Learn anything with interactive video courses on any topic.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1787,6 +1802,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Cronhq](https://www.cronhq.xyz) - Cron jobs fail in silence.
 - [Arcjet](https://arcjet.com) - Arcjet is the runtime security platform that ships in your AI code.
 - [Jev](https://console.typesafe.ai) - Jev is TypeSafe AI's System One frontier model: unstructured state in, typed probabilistic decisions out.
+- [Pulsetic](https://pulsetic.com) - Pulsetic is an all-in-one monitoring platform for websites, APIs and online services.
+- [SereneDB](https://serenedb.com) - SereneDB is the result of 12 years of development - an open-source database that does ultra-fast full-text and fast analytics in one engine.
 
 ## 💬 Chatbots & Conversational
 
