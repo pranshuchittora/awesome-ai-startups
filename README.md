@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (160)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (194)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (333)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (96)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (163)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (195)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (335)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (97)
 - [🎬 Video & Animation](#video-animation) (87)
-- [🎨 Image, Design & 3D](#image-design-3d) (102)
-- [✍️ Writing & Content](#writing-content) (64)
+- [🎨 Image, Design & 3D](#image-design-3d) (103)
+- [✍️ Writing & Content](#writing-content) (65)
 - [📊 Analytics & Data](#analytics-data) (93)
 - [🗂 Productivity & Notes](#productivity-notes) (265)
 - [🔎 Search & Discovery](#search-discovery) (48)
 - [🎓 Education & Learning](#education-learning) (42)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (40)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (50)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (159)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (161)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (34)
 - [👥 Social & Community](#social-community) (29)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (17)
-- [✨ Everything Else](#everything-else) (127)
+- [✨ Everything Else](#everything-else) (129)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -188,6 +188,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Jevtown](https://jevtown.ivanhabor.com) - Write a post, a listing, a product or a headline, and 10,000 computed AI residents read it.
 - [Decode by Entropik](https://www.entropik.io/decode) - Decode by Entropik is a human insights platform for UX, consumer, and market research.
 - [Sell to State](https://selltostate.com) - Structured government procurement data around the globe — tenders, suppliers and agencies.
+- [RankControl](https://rctrl.com) - Most AI SEO tools tell you where you're mentioned and stop.
+- [Dub.co](https://dub.co/partners) - The modern partner growth engine.
+- [Naise AI](https://naise.ai) - Stop babysitting AI's empty text boxes.
 
 ## 🤖 AI Agents & Assistants
 
@@ -385,6 +388,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Mycel](https://mycelai.dev) - Mycel runs the work your service business sells - clients, deliverables, approvals, invoices.
 - [Simular](https://simular.ai) - Simular is building the world’s first autonomous computers—systems that can use software like humans do.
 - [Hola AI](https://www.holavoicemail.com) - Hola AI answers calls when you can't, speaks with callers, takes messages, filters spam, and sends instant call summaries.
+- [Solid](https://solid.tech) - Solid’s AI agents build apps, automate workflows and tackle work you lack the time or expertise for.
 
 ## 💻 Coding & Developer Tools
 
@@ -722,6 +726,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Termphin](https://termphin.dev) - SSH that survives a locked phone, a lost signal or a switch to mobile data.
 - [Gradio](https://www.gradio.app) - The fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere.
 - [Hyrax AI](https://hyrax.dev) - Autonomous code review and fixing for engineering teams.
+- [CodeSpotlight](https://plugins.jetbrains.com/plugin/34323-codespotlight) - CodeSpotlight makes selected code visually stand out in IntelliJ IDEA with customizable animated effects.
+- [Jev State](https://jev-state.vercel.app) - Build and test conversational workflows with Jev.
 
 ## 🎙 Audio, Voice & Music
 
@@ -821,6 +827,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [NovaSynth by Noveum](https://noveum.ai/en/novasynth) - Simulate realistic callers at scale with custom personas, scenarios, interruptions, noise, accents, and network conditions.
 - [MosMos](https://mosmos.io) - MosMos goes beyond voice dictation by turning both individual thoughts and group conversations into usable writing.
 - [The 101 Plays Itself](https://jayjudah.com/101/) - A live Caltrans traffic camera on the US-101 in Studio City, playing itself as music in your browser.
+- [Speechka](https://speechka.io) - Speak naturally.
 
 ## 🎬 Video & Animation
 
@@ -1017,6 +1024,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Proofrr](https://proofrr.com) - Feedback in WhatsApp.
 - [Edit Text in Image - Keep the Original L](https://edittextinimage.pro) - Edit text in image online with AI.
 - [PixelCrew](https://pixelcrew.ai) - A crew of specialized AI agents coordinates on your brief and ships production-quality design.
+- [Pactto](https://www.pactto.com) - AI generates creative assets faster than ever, but review is the bottleneck.
 
 ## ✍️ Writing & Content
 
@@ -1084,6 +1092,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Voiskey](https://www.voiskey.ai) - Voiskey starts from what you meant, not just what you said.
 - [thestory.run](https://thestory.run) - Your team already has things to say, they just don't know how.
 - [ReWords AI](https://rewordsai.app) - ReWords AI is an AI writing assistant for rewording, rewriting, and polishing content while keeping the original meaning.
+- [ToneBird](https://tonebird.ai) - ToneBird is an AI reply assistant for Mac and Windows.
 
 ## 📊 Analytics & Data
 
@@ -1804,6 +1813,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Jev](https://console.typesafe.ai) - Jev is TypeSafe AI's System One frontier model: unstructured state in, typed probabilistic decisions out.
 - [Pulsetic](https://pulsetic.com) - Pulsetic is an all-in-one monitoring platform for websites, APIs and online services.
 - [SereneDB](https://serenedb.com) - SereneDB is the result of 12 years of development - an open-source database that does ultra-fast full-text and fast analytics in one engine.
+- [Koreshield](https://koreshield.ai) - Every AI support agent takes input from someone it should not trust: the customer message, the documents it retrieves, and the tool calls it proposes.
+- [GBrain](https://gbrain.io/gratis/product-hunt) - GBrain gives you a memory and a set of connected accounts that every AI can reach.
 
 ## 💬 Chatbots & Conversational
 
@@ -2023,6 +2034,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Blanc](https://blancbrowser.com) - Blanc is a free desktop browser for macOS, Windows and Linux.
 - [citizen404](https://www.citizen404.com) - One citizen has escaped the Supreme AGI.
 - [Robot Recipes](https://robotrecipes.co) - Robot Recipes has thousands of real food recipes for humans, created by AI.
+- [Lightmeter](https://shotonlightmeter.com) - A real light meter when you carry film, and a film camera when you don't.
+- [Moxo AI - Hardware & Software Innovation](https://moxoai.com) - AI-powered workflow automation platform for teams using Moxo AI.
 
 ## Contributing
 
