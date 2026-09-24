@@ -728,6 +728,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Hyrax AI](https://hyrax.dev) - Autonomous code review and fixing for engineering teams.
 - [CodeSpotlight](https://plugins.jetbrains.com/plugin/34323-codespotlight) - CodeSpotlight makes selected code visually stand out in IntelliJ IDEA with customizable animated effects.
 - [Jev State](https://jev-state.vercel.app) - Build and test conversational workflows with Jev.
+- [Agent QA](https://github.com/vostride/agent-qa) - Agent QA runs natural-language web and mobile tests with self-healing execution.
 
 ## 🎙 Audio, Voice & Music
 
