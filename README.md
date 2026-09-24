@@ -7,21 +7,21 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (163)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (195)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (335)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (164)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (197)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (337)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (97)
 - [🎬 Video & Animation](#video-animation) (87)
 - [🎨 Image, Design & 3D](#image-design-3d) (103)
 - [✍️ Writing & Content](#writing-content) (65)
 - [📊 Analytics & Data](#analytics-data) (93)
-- [🗂 Productivity & Notes](#productivity-notes) (265)
+- [🗂 Productivity & Notes](#productivity-notes) (266)
 - [🔎 Search & Discovery](#search-discovery) (48)
-- [🎓 Education & Learning](#education-learning) (42)
+- [🎓 Education & Learning](#education-learning) (43)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (40)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (50)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (161)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (34)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (163)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (35)
 - [👥 Social & Community](#social-community) (29)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (17)
 - [✨ Everything Else](#everything-else) (129)
@@ -191,6 +191,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [RankControl](https://rctrl.com) - Most AI SEO tools tell you where you're mentioned and stop.
 - [Dub.co](https://dub.co/partners) - The modern partner growth engine.
 - [Naise AI](https://naise.ai) - Stop babysitting AI's empty text boxes.
+- [Hookest](https://hookest.com) - Hookest tracks the opening seconds of viral TikToks, Reels, and Shorts and makes them searchable with real performance data.
 
 ## 🤖 AI Agents & Assistants
 
@@ -389,6 +390,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Simular](https://simular.ai) - Simular is building the world’s first autonomous computers—systems that can use software like humans do.
 - [Hola AI](https://www.holavoicemail.com) - Hola AI answers calls when you can't, speaks with callers, takes messages, filters spam, and sends instant call summaries.
 - [Solid](https://solid.tech) - Solid’s AI agents build apps, automate workflows and tackle work you lack the time or expertise for.
+- [NOAN](https://getnoan.com) - Build & automate your business with NOAN's AI knowledge system.
+- [Jev AI — AI for clearer decisions](https://jevai2.com) - Jev AI turns context, constraints, and choices into a clear recommendation—with the reasoning to back it up.
 
 ## 💻 Coding & Developer Tools
 
@@ -728,6 +731,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Hyrax AI](https://hyrax.dev) - Autonomous code review and fixing for engineering teams.
 - [CodeSpotlight](https://plugins.jetbrains.com/plugin/34323-codespotlight) - CodeSpotlight makes selected code visually stand out in IntelliJ IDEA with customizable animated effects.
 - [Jev State](https://jev-state.vercel.app) - Build and test conversational workflows with Jev.
+- [Harness Manager](https://harnessmanager.devmesh.xyz) - Harness Manager is the App Store and control center for AI coding harnesses on Mac.
+- [Floot](https://floot.com) - Floot Connector plugs Floot into Claude and ChatGPT, so you can describe an app in the chat you already use and get a real full-stack app back with a database, user logins, and a live URL.
 
 ## 🎙 Audio, Voice & Music
 
@@ -1458,6 +1463,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Role & Opportunity Kit](https://role-opportunity-kit.surge.sh) - Score hires, vendors, and opportunities before you commit.
 - [Decision Script Kit](https://decision-script-kit.surge.sh) - Map mutually exclusive decision futures before you commit.
 - [Scorecard + Builder Under Hard Caps](https://constraint-portfolio-kit.surge.sh) - Free worked scorecard for allocating a fixed budget under hard caps.
+- [NotchPop](https://notchpop.com) - NotchPop turns your MacBook notch into a Dynamic Island: music, a file shelf, clipboard history, focus timer, calendar, weather, AI coding stats and revenue.
 
 ## 🔎 Search & Discovery
 
@@ -1555,6 +1561,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [AINA](https://aina-tech.io/candidate) - AINA is an AI career coach that helps you see what's holding your job search back, strengthen your profile, and practice for interviews — through conversations with a video avatar.
 - [YABAI](https://yabai-app.pages.dev) - Textbooks teach Japanese that stops at the classroom door.
 - [Keet](https://trykeet.com) - Learn anything with interactive video courses on any topic.
+- [Storytailor®](https://www.storytailor.com) - Storytailor helps families, educators and care teams turn children’s ideas and original drawings into recurring characters and illustrated stories.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1815,6 +1822,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SereneDB](https://serenedb.com) - SereneDB is the result of 12 years of development - an open-source database that does ultra-fast full-text and fast analytics in one engine.
 - [Koreshield](https://koreshield.ai) - Every AI support agent takes input from someone it should not trust: the customer message, the documents it retrieves, and the tool calls it proposes.
 - [GBrain](https://gbrain.io/gratis/product-hunt) - GBrain gives you a memory and a set of connected accounts that every AI can reach.
+- [Opencontroller by lyzr](https://www.lyzr.ai/opencontroller/) - AI agents are sprawling across clouds, SaaS tools, Kubernetes, and devices, with no common layer to govern them.
+- [Maximem Synap](https://maximem.ai/synap/) - Maximem Synap is memory and context infrastructure for AI agents, so every conversation does not start from zero.
 
 ## 💬 Chatbots & Conversational
 
@@ -1852,6 +1861,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Switch](https://www.flintai.dev/products/switch) - Switch brings AI agents into the collaboration tools your team already uses.
 - [ChatHop](https://chathop.tech) - Move your AI conversation to another assistant mid-thought, context included.
 - [ProductBridge](https://productbridge.io) - Most teams run a helpdesk, a feedback board and a survey tool, then copy between them all week.
+- [IntellAgents.io](https://intellagents.io) - Most businesses juggle a different tool for every channel — one for phone support, another for WhatsApp, another for the website chatbot.
 
 ## 👥 Social & Community
 
